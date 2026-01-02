@@ -27,7 +27,7 @@ Jupyter notebooks covering:
 During the internship, interactive dashboards were created using:
 
 - Tableau: EDA and KPI dashboards
-- Power BI: Business insights and reporting dashboards
+- Power BI: Business insights and reporting dashboards.
 
 
 ## Author
