@@ -22,12 +22,20 @@ Jupyter notebooks covering:
 - Scikit-learn
 - Jupyter Notebook
 
-## Dashboards (Tableau & Power BI)
+## Tableau & Power BI Dashboards
 
-During the internship, interactive dashboards were created using:
+- Created interactive dashboards using Tableau and Power BI
+- Key KPIs:
+  - Sales & Revenue Trends
+  - Category-wise Performance
+  - Time-based Analysis
+- Insights derived:
+  - Identified high-performing categories
+  - Seasonal trends and growth patterns
+  - Data-driven recommendations for business decisions
 
-- Tableau: EDA and KPI dashboards
-- Power BI: Business insights and reporting dashboards.
+(Note: Dashboard files not uploaded due to tool limitations; insights and methodology are documented.)
+
 
 
 ## Author
