@@ -22,19 +22,15 @@ Jupyter notebooks covering:
 - Scikit-learn
 - Jupyter Notebook
 
-## Tableau & Power BI Dashboards
+## Dashboards
 
-- Created interactive dashboards using Tableau and Power BI
-- Key KPIs:
-  - Sales & Revenue Trends
-  - Category-wise Performance
-  - Time-based Analysis
-- Insights derived:
-  - Identified high-performing categories
-  - Seasonal trends and growth patterns
-  - Data-driven recommendations for business decisions
+### Power BI Dashboard
+![Power BI Dashboard](dashboards/Screenshot%202025-12-27%20205323.png)
 
-(Note: Dashboard files not uploaded due to tool limitations; insights and methodology are documented.)
+### Tableau Dashboards
+![Tableau Dashboard 1](dashboards/Screenshot%202026-01-02%20124929.png)
+![Tableau Dashboard 2](dashboards/Screenshot%202026-01-02%20124950.png)
+![Tableau Dashboard 3](dashboards/Screenshot%202026-01-02%20125008.png)
 
 
 
