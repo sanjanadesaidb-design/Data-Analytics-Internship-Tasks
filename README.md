@@ -48,19 +48,19 @@ Jupyter notebooks covering:
 ### 🔹 Tableau Stock Analysis – Individual Visualizations
 
 #### 📈 Stock Trading Volume Trend
-![Stock Volume Trend](dashboards/ss_volume.png)
+![dashboards/Screenshot 2026-01-02 124950.png](dashboards/ss_volume.png)
 
 - Monthly stock trading volume analysis
 - Identification of high and low activity periods
 
 #### 📉 High vs Low Stock Price Trend
-![High vs Low Price](dashboards/ss_price.png)
+![dashboards/Screenshot 2026-01-02 125008.png](dashboards/ss_price.png)
 
 - Comparison between high and low stock prices
 - Trend-based market movement analysis
 
 #### 💬 Sentiment Distribution
-![Sentiment Analysis](dashboards/ss_sentiment.png)
+![dashboards/Screenshot 2026-01-02 124929.png](dashboards/ss_sentiment.png)
 
 - Positive, negative, and neutral sentiment trends
 - Relationship between sentiment and stock movement
@@ -68,7 +68,7 @@ Jupyter notebooks covering:
 ---
 
 ### 🔹 Tableau Final Dashboard – Stock Market & Sentiment Overview
-![Final Stock Dashboard](dashboards/ss_final_dashboard.png)
+![dashboards/Screenshot 2026-01-02 125053.png](dashboards/ss_final_dashboard.png)
 
 **Dashboard Summary:**
 - Combined view of volume, price trends, and sentiment
